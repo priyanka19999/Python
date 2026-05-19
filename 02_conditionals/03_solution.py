@@ -11,7 +11,7 @@ elif grade >= 60:
     print("D")
 else:
     print("F")
-# answer: My grade is : 55 , F (here u have to give input interminal to get the grade)
+# answer: My grade is : 55 , F (here u have to give input in interminal to get the grade)
 
 
 
