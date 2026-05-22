@@ -6,4 +6,4 @@ for num in numbers:
     if num > 0:
         positive_number_count +=1
 print("final count number:", positive_number_count)
-        
+#ans: final count number = 5
